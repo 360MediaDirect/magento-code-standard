@@ -1,5 +1,5 @@
 {
-    "name": "mediotype/code-standard",
+    "name": "360mediadirect/magento-code-standard",
     "description": "Mediotype Engineering Code Standard",
     "type": "phpcodesniffer-standard",
     "license": "proprietary",
